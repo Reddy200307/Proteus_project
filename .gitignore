@@ -1,0 +1,7 @@
+# Ignore Proteus Backups
+*.pdsbak
+Backup Of *
+Last Loaded *
+
+# Ignore User Workspace Settings
+*.workspace
